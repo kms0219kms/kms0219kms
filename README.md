@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
+# kms0219kms(All PGS)
+Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
+
+Discord : [Half PGS (또는 All PGS)#1453](https://www.discordapp.com/users/719094784928645180)
+Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
+
+![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&theme=tokyonight)
+### Top Language
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0219kms&theme=tokyonight)<br/>
