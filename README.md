@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
-# kms0219kms(All PGS)
 Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
 
 Discord : [Half PGS (또는 All PGS)#1453](https://www.discordapp.com/users/719094784928645180)
