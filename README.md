@@ -22,6 +22,6 @@ Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
 Discord : [Half PGS (또는 All PGS)#1453](https://www.discordapp.com/users/719094784928645180)
 Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
 
-![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&theme=tokyonight)
+![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
 ### Top Language
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0219kms&theme=tokyonight)<br/>
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0219kms&langs_count=100&theme=radical)<br/>
