@@ -19,6 +19,10 @@ Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
 
 I am 13 years old in Korean standard.
 
+I am a fan of TWICE, a Korean K-pop singer.
+
+~~Can someone give me some money so that I can join the official fan club?~~
+
 Discord : [! All PGS ✅#5464](https://www.discordapp.com/users/673776952578146315)
 Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
 
