@@ -23,7 +23,7 @@ I am a fan of TWICE and Oh My Girl.
 
 ~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://donate.allpgs.ga/toon.at)
 
-Discord : [! All PGS ✅#5464](https://www.discordapp.com/users/673776952578146315)
+Discord : [! All PGS ✅ [TWICE + Oh My Girl]#2021](https://www.discordapp.com/users/673776952578146315)
 Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
 
 ![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
