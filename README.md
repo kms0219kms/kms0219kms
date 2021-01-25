@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
 
-I am 13 years old in Korean standard.
+I am 14 years old in Korean standard.
 
 I am a fan of TWICE and Oh My Girl.
 
 ~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://donate.allpgs.ga/toon.at)
 
-Discord : [! All PGS ✅ [TWICE + Oh My Girl]#2021](https://www.discordapp.com/users/673776952578146315)
-Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
+Discord : [! All PGS ✅#6314](https://www.discordapp.com/users/673776952578146315)
+Mail : [kms0219kms@kakao.com](mailto:kms0219kms@kakao.com)
 
 ![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
 
