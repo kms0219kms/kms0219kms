@@ -19,7 +19,7 @@ Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
 
 I am 14 years old in Korean standard.
 
-I am a fan of TWICE and Oh My Girl.
+I am a fan of Oh My Girl and TWICE.
 
 ~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://donate.allpgs.ga/toon.at)
 
