@@ -70,9 +70,7 @@ Mail : [kms0219kms@kakao.com](mailto:kms0219kms@kakao.com)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-#### Learning
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+## 
 
 ![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
 
