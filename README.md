@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm All PGS, and I am developer using Python, HTML, CSS, JS, C#.
+Hello, I'm SSKATE, and I am developer using Python, HTML, CSS, JS, C#.
 
 I am 14 years old in Korean standard.
 
 I am a fan of Oh My Girl and Red Velvet, TWICE.
 
-~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://donate.allpgs.ga/toon.at)
+~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://sskate.me/about)
 
 Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
 
