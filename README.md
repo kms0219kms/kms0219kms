@@ -23,7 +23,7 @@ I am a fan of Oh My Girl and Red Velvet, TWICE.
 
 ~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://sskate.me/about)
 
-Mail : [kms0219kms@naver.com](mailto:kms0219kms@naver.com)
+Mail : [me@sskate.me](mailto:me@sskate.me)
 
 ## 📚 Technologies
 
