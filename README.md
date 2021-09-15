@@ -21,7 +21,7 @@ I am 14 years old in Korean standard.
 
 I am a fan of Oh My Girl and Red Velvet, TWICE.
 
-<!-- Do you want to see my music playlist? [Go to my music playlist](https://music.sskate.me/) -->
+Do you want to see my music playlist? [Go to my music playlist](https://music.sskate.me/)
 
 ~~Can someone give me some money so that I can join the official fan club?~~ [Donate Now (Korean)](https://sskate.me/about)
 
