@@ -19,7 +19,7 @@ Hello, I'm SSKATE, and I am developer using Python, HTML, CSS, JS, C#.
 
 I am 14 years old in Korean standard.
 
-I am a fan of Oh My Girl and Red Velvet, TWICE.
+I am a fan of Oh My Girl and Red Velvet, aespa.
 
 Do you want to see my music playlist? [Go to my music playlist](https://music.sskate.me/)
 
