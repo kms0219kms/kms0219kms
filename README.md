@@ -34,8 +34,8 @@ Mail : [kms0219kms@kakao.com](mailto:kms0219kms@kakao.com)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![nuxt](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000000)
 
 #### Databases
