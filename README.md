@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 Hello! I'm Minsu Kim, a student web publisher.
 
-I am 14 years old.
+I am 14 years old (Year 9).
+I can speak Korean(Native), English, Vietnamese.
+Now i am studying in BIS Hanoi (British International School Hanoi).
 
-Mail : [kms0219kms@kakao.com](mailto:kms0219kms@kakao.com)
+Mail : [minsu_kim@bishanoi.net](mailto:minsu_kim@bishanoi.net)
 
 ## 📚 Technologies
 
