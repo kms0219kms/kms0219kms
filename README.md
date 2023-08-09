@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ## 📫 Contacts
 [![Discord](https://img.shields.io/badge/iam.issac-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/902700864748273704)
 
-[![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
+General Inquiries(School E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
+
+Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
 
 ## 📚 Technologies
 #### 💻 Languages
