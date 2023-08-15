@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 General Inquiries(School E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
 
-Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
+Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@hanarin.uk-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@hanarin.uk)
 
 ## 📚 Technologies
 #### 💻 Languages
