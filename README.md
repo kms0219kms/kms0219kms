@@ -62,4 +62,8 @@ Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0219kms&langs_count=100&theme=radical)<br/>
 
 ##### Github Contribution
-![Github Contribution](https://github.com/kms0219kms/kms0219kms/blob/output/github-contribution-grid-snake.svg)<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="../output/github-contribution-grid-snake.svg" />
+</picture><br />
