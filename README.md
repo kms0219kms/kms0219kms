@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 > Check out [my portfolio webpage](https://sskate.me) for more information.
 
 ## 📫 Contacts
-[![Discord](https://img.shields.io/badge/iam.issac-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/902700864748273704)
+Discord: [![Discord](https://img.shields.io/badge/iam.issac-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/902700864748273704)
 
 General Inquiries(School E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
 
@@ -55,6 +55,9 @@ Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu
 ![mySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 ## ⚡ Metrics
+[![Discord](https://discord-profile-starcea.paring.moe/discord/902700864748273704?)](https://discord.com/users/902700864748273704)
+[![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/kms0219kms)
+
 #### Github Status
 ![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
 
