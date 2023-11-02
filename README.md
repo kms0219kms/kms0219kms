@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 <!--
 **kms0219kms/kms0219kms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💬 About Me
-:birthday: **Birthday**: 19/02/2009
+[![Discord](https://img.shields.io/badge/%40iam.ayaan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902700864748273704)
+[![Outlook](https://img.shields.io/badge/minsu__kim%40bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
+[![Gmail](https://img.shields.io/badge/minsu__kim%40hanarin.uk%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu_kim@hanarin.uk)
 
-:speaking_head: **Language**: Korean(Native), English(Intermediate), Vietnamese(Basic)
+:wave: Welcome to my GitHub! I'm Ayaan, an student developer from Hanoi, Vietnam.
 
-:bulb: **Interested in**: Computer Science, Rhythm Game, etc...
+:birthday: My birthday is February 19th, 2009.
 
-> Check out [my portfolio webpage](https://sskate.me) for more information.
+:pencil: Currently studying in [British International School, Hanoi](http://www.nordangliaeducation.com/our-schools/vietnam/hanoi/bis/).
 
-## 📫 Contacts
-Discord: [![Discord](https://img.shields.io/badge/iam.issac-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/902700864748273704)
+:bulb: Interested in Web Development(Full-stack), Rhythm Game, etc...
 
-General Inquiries(School E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
+:speaking_head: I can speak Korean as Native, and English as Intermediate level, Vietnamese as Basic level.
 
-Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu_kim@hanarin.uk-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@hanarin.uk)
+:rocket: Feel free to explore my projects! I'm always open to new ideas and suggestions. Let's shape the future together!
 
-## 📚 Technologies
+> You can check out [my portfolio webpage](https://sskate.me) for more information.
+
+[![Discord](https://discord-profile-starcea.paring.moe/discord/902700864748273704?)](https://discord.com/users/902700864748273704)
+[![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/kms0219kms)
+
+<details>
+<summary>📚 Technologies</summary>
+
 #### 💻 Languages
 
 ![javascript](https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -53,10 +60,10 @@ Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![mySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+</details>
 
-## ⚡ Metrics
-[![Discord](https://discord-profile-starcea.paring.moe/discord/902700864748273704?)](https://discord.com/users/902700864748273704)
-[![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/kms0219kms)
+<details>
+<summary>⚡ Metrics</summary>
 
 #### Github Status
 ![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
@@ -70,3 +77,4 @@ Business Inquiries(Work E-mail) : [![Outlook](https://img.shields.io/badge/minsu
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kms0219kms/kms0219kms/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/kms0219kms/kms0219kms/blob/output/github-contribution-grid-snake.svg" />
 </picture><br />
+</details>
