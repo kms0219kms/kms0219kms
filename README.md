@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Discord](https://img.shields.io/badge/%40iam.ayaan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902700864748273704)
 [![Outlook](https://img.shields.io/badge/minsu__kim%40bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
-[![Gmail](https://img.shields.io/badge/minsu__kim%40hanarin.uk%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu_kim@hanarin.uk)
+[![Gmail](https://img.shields.io/badge/minsu.kim%40feather--it.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu_kim@hanarin.uk)
 
 :wave: Welcome to my GitHub! I'm Ayaan, an student developer from Hanoi, Vietnam.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 :bulb: Interested in Web Development(Full-stack), Rhythm Game, etc...
 
-:speaking_head: I can speak Korean as Native, and English as Intermediate level, Vietnamese as Basic level.
+:speaking_head: I can speak Korean as native, and English as intermediate level, Vietnamese as basic level.
 
 :rocket: Feel free to explore my projects! I'm always open to new ideas and suggestions. Let's shape the future together!
 
