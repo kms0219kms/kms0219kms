@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Discord](https://img.shields.io/badge/%40iam.ayaan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902700864748273704)
 [![Outlook](https://img.shields.io/badge/minsu__kim%40bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
-[![Gmail](https://img.shields.io/badge/minsu.kim%40feather--it.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu_kim@hanarin.uk)
+[![Gmail](https://img.shields.io/badge/minsu.kim%40feather--it.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu.kim@feather-it.com)
 
 :wave: Welcome to my GitHub! I'm Ayaan, an student developer from Hanoi, Vietnam.
 
