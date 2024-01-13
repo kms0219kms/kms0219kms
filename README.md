@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 :birthday: My birthday is February 19th, 2009.
 
-:pencil: Currently studying in [British International School, Hanoi](http://www.nordangliaeducation.com/our-schools/vietnam/hanoi/bis/).
-
 :bulb: Interested in Web Development(Full-stack), Rhythm Game, etc...
 
 :speaking_head: I can speak Korean as native, and English as intermediate level, Vietnamese as basic level.
 
-:rocket: Feel free to explore my projects! I'm always open to new ideas and suggestions. Let's shape the future together!
+:moneybag: Your donation will help me to do more projects and produce higher quality work. Donations can be made to [Toss](https://toss.me/kms0219kms) or [GitHub Sponsors](https://github.com/sponsors/kms0219kms).
+
+:rocket: I'm always open to new ideas and suggestions. Let's shape the future together!
 
 > You can check out [my portfolio webpage](https://sskate.me) for more information.
 
