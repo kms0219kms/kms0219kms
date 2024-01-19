@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 > You can check out [my portfolio webpage](https://sskate.me) for more information.
 
 [![Discord](https://discord-profile-starcea.paring.moe/discord/902700864748273704?)](https://discord.com/users/902700864748273704)
-[![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/kms0219kms)
+<!-- [![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/kms0219kms) -->
+[![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/312bcezvmfeo57vawjvo4ojusowy)
 
 <details>
 <summary>📚 Technologies</summary>
