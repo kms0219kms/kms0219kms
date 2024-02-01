@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 <summary>⚡ Metrics</summary>
 
 #### Github Status
-![kms0219kms's github Status](https://github-readme-stats.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
+![kms0219kms's github Status](https://github-readme-stats-kms0219kms.vercel.app/api?username=kms0219kms&show_icons=true&count_private=true&theme=radical)
 
 ##### Top Language
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0219kms&langs_count=100&theme=radical)<br/>
+![Top Language](https://github-readme-stats-kms0219kms.vercel.app/api/top-langs/?username=kms0219kms&langs_count=100&theme=radical)<br/>
 
 ##### Github Contribution
 <picture>
