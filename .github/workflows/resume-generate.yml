@@ -1,0 +1,47 @@
+name: Resume Generate
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python v3.12
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.12"
+
+    - name: Set up Node.js v20
+      uses: actions/setup-node@v3
+      with:
+        node-version: 20
+  
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install selenium
+        npx @puppeteer/browsers install chrome@stable
+    
+    - name: Generate PDF file
+      run: python scripts/resume_pdf.py
+    
+    # push the content of <build_dir> to a branch
+    # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+    - name: Push Resume PDF file
+      uses: crazy-max/ghaction-github-pages@v3.1.0
+      with:
+        target_branch: resume
+        build_dir: resume-dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
