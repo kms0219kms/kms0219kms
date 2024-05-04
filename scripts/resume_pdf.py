@@ -42,7 +42,7 @@ options.add_argument("--kiosk-printing")
 
 # Load the Chrome Driver
 driver = webdriver.Chrome(options=options)
-driver.get("https://sskate.me/resume")
+driver.get("https://devayaan.me/resume")
 
 # Wait for the page to load
 wait = WebDriverWait(driver, timeout=10)
