@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Discord](https://img.shields.io/badge/%40iam.ayaan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902700864748273704)
 [![Outlook](https://img.shields.io/badge/minsu__kim%40bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
-[![Gmail](https://img.shields.io/badge/minsu.kim%40hanarin.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu.kim@hanarin.uk)
+[![Gmail](https://img.shields.io/badge/minsu.kim%40lunaiz.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu.kim@lunaiz.com)
 
 :wave: Welcome to my GitHub! I'm Ayaan, a student developer from Hanoi, Vietnam.
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 :speaking_head: I can speak Korean natively, English at an intermediate level, and Vietnamese at a basic level.
 
-:moneybag: Your donation will help me work on more projects and produce higher-quality work. Donations can be made to [Toss](https://toss.me/kms0219kms) or [GitHub Sponsors](https://github.com/sponsors/kms0219kms).
+:moneybag: Your donation will help me work on more projects and produce higher-quality work. Donations can be made to [Buy Me a Coffee](https://buymeacoffee.com/kms0219kms) or [GitHub Sponsors](https://github.com/sponsors/kms0219kms).
 
 :rocket: I'm always open to new ideas and suggestions. Let's shape the future together!
 
-> You can check out [my portfolio webpage](https://devayaan.me) for more information.
+> You can check out [my portfolio webpage](https://devayaan.me) or [my resume](https://devayaan.me/resume) for more information.
 
 [![Discord](https://discord-profile-starcea.paring.moe/discord/902700864748273704?)](https://discord.com/users/902700864748273704)
 <!-- [![Spotify](https://discord-profile-starcea.paring.moe/spotify/902700864748273704?album=true)](https://open.spotify.com/user/312bcezvmfeo57vawjvo4ojusowy) -->
