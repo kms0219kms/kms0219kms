@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub](https://img.shields.io/badge/kms0219kms-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kms0219kms)
 [![Discord](https://img.shields.io/badge/%40iam.ayaan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902700864748273704)
-[![Outlook](https://img.shields.io/badge/minsu__kim%40bishanoi.net-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:minsu_kim@bishanoi.net)
+
+[![Outlook](https://img.shields.io/badge/minsu__kim%40bishanoi.net-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuODggMTIuMDRxMCAuNDUtLjExLjg3LS4xLjQxLS4zMy43NC0uMjIuMzMtLjU4LjUyLS4zNy4yLS44Ny4ydC0uODUtLjJxLS4zNS0uMjEtLjU3LS41NS0uMjItLjMzLS4zMy0uNzUtLjEtLjQyLS4xLS44NnQuMS0uODdxLjEtLjQzLjM0LS43Ni4yMi0uMzQuNTktLjU0LjM2LS4yLjg3LS4ydC44Ni4ycS4zNS4yMS41Ny41NS4yMi4zNC4zMS43Ny4xLjQzLjEuODh6TTI0IDEydjkuMzhxMCAuNDYtLjMzLjgtLjMzLjMyLS44LjMySDcuMTNxLS40NiAwLS44LS4zMy0uMzItLjMzLS4zMi0uOFYxOEgxcS0uNDEgMC0uNy0uMy0uMy0uMjktLjMtLjdWN3EwLS40MS4zLS43US41OCA2IDEgNmg2LjVWMi41NXEwLS40NC4zLS43NS4zLS4zLjc1LS4zaDEyLjlxLjQ0IDAgLjc1LjMuMy4zLjMuNzVWMTAuODVsMS4yNC43MmguMDFxLjEuMDcuMTguMTguMDcuMTIuMDcuMjV6bS02LTguMjV2M2gzdi0zem0wIDQuNXYzaDN2LTN6bTAgNC41djEuODNsMy4wNS0xLjgzem0tNS4yNS05djNoMy43NXYtM3ptMCA0LjV2M2gzLjc1di0zem0wIDQuNXYyLjAzbDIuNDEgMS41IDEuMzQtLjh2LTIuNzN6TTkgMy43NVY2aDJsLjEzLjAxLjEyLjA0di0yLjN6TTUuOTggMTUuOThxLjkgMCAxLjYtLjMuNy0uMzIgMS4xOS0uODYuNDgtLjU1LjczLTEuMjguMjUtLjc0LjI1LTEuNjEgMC0uODMtLjI1LTEuNTUtLjI0LS43MS0uNzEtMS4yNHQtMS4xNS0uODNxLS42OC0uMy0xLjU1LS4zLS45MiAwLTEuNjQuMy0uNzEuMy0xLjIuODUtLjUuNTQtLjc1IDEuMy0uMjUuNzQtLjI1IDEuNjMgMCAuODUuMjYgMS41Ni4yNi43Mi43NCAxLjIzLjQ4LjUyIDEuMTcuODEuNjkuMyAxLjU2LjN6TTcuNSAyMWgxMi4zOUwxMiAxNi4wOFYxN3EwIC40MS0uMy43LS4yOS4zLS43LjNINy41em0xNS0uMTN2LTcuMjRsLTUuOSAzLjU0WiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)](mailto:minsu_kim@bishanoi.net)
 [![Gmail](https://img.shields.io/badge/minsu.kim%40lunaiz.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsu.kim@lunaiz.com)
 
 :wave: Welcome to my GitHub! I'm Ayaan, a student developer from Hanoi, Vietnam.
